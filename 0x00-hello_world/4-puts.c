@@ -2,12 +2,13 @@
 #include <stdioh>
 
 /**
- * main - Printing
+ * main - Entry point
  * 
- * Return: Always 0 (Succesful)
+ * Return: Always 0
  */
 int maain(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+
 	  return (0);
 }
